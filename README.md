@@ -13,3 +13,4 @@ A simple python webui to facilitate instant-ngp training
 ### Procedure:
 * Place the file app.py in the root directory (Instant-NGP-for-RTX-3000-and-4000)
 * Install dependencies: `pip install -r requirements.txt`
+* `python app.py`
