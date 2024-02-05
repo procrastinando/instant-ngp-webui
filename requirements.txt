@@ -7,3 +7,4 @@ pybind11
 pyquaternion
 scipy
 tqdm
+fastapi>=0.109.1 # not directly required, pinned by Snyk to avoid a vulnerability
